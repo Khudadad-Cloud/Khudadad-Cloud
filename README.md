@@ -1,6 +1,6 @@
 # Hi, I'm Khudadad Hussaini 👋
 
-### Azure Administrator | Cloud Computing | IT Infrastructure | IT Support Technician | Help Desk 
+### Azure Administrator | Cloud Computing | Microsoft Azure | IT Infrastructure | IT Support Technician | Help Desk 
 
 I'm an IT Support Technician and Microsoft Certified Azure Administrator Associate with experience in IT troubleshooting, Windows environments, and user support.
 
