@@ -1,55 +1,47 @@
 # Hi, I'm Khudadad Hussaini 👋
 
-### IT Support | Help Desk & Desktop Support | Microsoft Azure | Windows Server | Microsoft 365
+**Azure Administrator (AZ-104) | SC-300 in progress | Identity & Access Management**
 
-I'm an IT Support Technician and Microsoft Certified Azure Administrator Associate with experience troubleshooting technical issues, supporting users, and maintaining Windows-based IT environments.
+I'm an Azure-certified IT professional based in Toronto, completing the Cloud Computing Technologies co-op program at George Brown Polytechnic. Before moving into cloud, I spent 4 years in IT support, helping 100+ users and maintaining 100+ computers and 15 printers. I learn best by building labs, breaking things, and fixing them.
 
-I'm currently studying Cloud Computing Technologies at George Brown Polytechnic in Toronto, Canada. My technical interests include help desk support, desktop troubleshooting, Windows Server administration, Microsoft 365, and Microsoft Azure. I'm continuously developing my skills through hands-on projects and practical technical exercises.
+📍 Toronto, ON  
+🎯 Open to co-op and junior roles in Cloud Administration, Azure, IAM, Cloud Support, and IT Infrastructure
 
----
+## 🔧 What I Work With
 
-### 🛠️ Technical Skills
+| Area | Tools & Technologies |
+|---|---|
+| **Cloud** | Microsoft Azure (VMs, VNets, Subnets, NSGs, Storage Accounts, Azure Monitor), Microsoft Entra ID, RBAC |
+| **Microsoft & Windows** | Windows Server, Active Directory, Group Policy, DNS, Microsoft 365 (Exchange Online, SharePoint, Defender) |
+| **Scripting** | PowerShell, Azure PowerShell, Microsoft Graph PowerShell |
+| **Virtualization & OS** | Hyper-V, Linux, Windows 10/11 |
 
-* **IT Support:** Hardware and software troubleshooting, user support, incident resolution, remote support, printer troubleshooting, and network connectivity
-* **Operating Systems:** Windows 10/11, Windows Server, and Linux fundamentals
-* **Microsoft 365:** User and license management, Exchange Online, SharePoint Online, Microsoft Teams, and OneDrive
-* **Microsoft Azure:** Virtual Machines, Virtual Networks, Network Security Groups, Azure Storage, Azure Monitor, and Role-Based Access Control (RBAC)
-* **Identity & Access Management:** Active Directory, Microsoft Entra ID, user and group management, permissions, DNS, DHCP, and Group Policy
-* **Virtualization:** Hyper-V and virtual machine management
-* **Scripting & Automation:** PowerShell fundamentals
-* **Infrastructure as Code:** Terraform and ARM templates
+## 🚀 Projects
 
----
+### Azure Infrastructure & Network Administration
+Designed and deployed a virtual network with multiple subnets and NSG firewall rules, secured Windows VMs, configured Storage Accounts, applied RBAC for least-privilege access, and tracked changes with Azure Monitor and Activity Log.  
+`Azure VMs` `VNets` `NSGs` `Storage` `RBAC` `Azure Monitor`
 
-### 💻 IT Support & Cloud Projects
+### Windows Server & Active Directory Infrastructure
+Built a Windows Server 2025 domain on Hyper-V with a domain controller and Windows clients. Configured AD DS and DNS, created OUs, users, and security groups, and applied Group Policy Objects.  
+`Windows Server 2025` `Active Directory` `DNS` `Group Policy` `Hyper-V` `PowerShell`
 
-* **Azure Infrastructure with Terraform** — Build practical skills in Azure resource deployment and Infrastructure as Code.
-* **Windows Server & Active Directory** — Configure domain services, user accounts, groups, DNS, DHCP, and Group Policy.
-* **Microsoft 365 Administration** — Practice user and license management, Exchange Online, SharePoint Online, and Teams administration.
-* **Azure Cloud Migration** — Explore the planning and migration of on-premises workloads to Microsoft Azure.
-* **PowerShell Automation** — Develop scripts to simplify common IT administration and user management tasks.
+### Microsoft 365 Administration & Security (Simulated 300-User Organization)
+Configured a Microsoft 365 tenant with users, groups, licenses, and admin roles through Entra ID. Set up Exchange Online shared mailboxes, SharePoint permissions, and OneDrive sharing policies, enabled Defender Safe Links and Safe Attachments, and automated administration with Microsoft Graph PowerShell.  
+`Microsoft 365` `Entra ID` `Exchange Online` `SharePoint` `Defender` `Graph PowerShell`
 
----
+## 📜 Certifications
 
-### 🎓 Certifications
+- ✅ [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/KhudadadHussaini/35F89CAB7581ECE0?sharingId=8F5AD0D0FA73C784)
+- ✅ Linux Essentials (LPI)
+- 🔄 Microsoft SC-300: Identity and Access Administrator (in progress)
 
-* Microsoft Certified: Azure Administrator Associate (AZ-104)
-* Linux Essentials
+## 🎓 Education
 
----
+- Ontario College Graduate Certificate, Cloud Computing Technologies (Co-op), George Brown Polytechnic (2026 – 2027)
+- Bachelor of Computer Science, Kateb University (2013 – 2017)
 
-### 🎓 Education
+## 📫 Let's Connect
 
-**George Brown Polytechnic**
-Cloud Computing Technologies (Co-op)
-Toronto, Ontario, Canada
-
-**Kateb University**
-Bachelor's of Computer Science 
-Kabul, Afghanistan 
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/khudadad-hussaini-126b18160/)
-
-📍 Toronto, Ontario, Canada
+- LinkedIn: [linkedin.com/in/khudadadhussaini-126b18160](https://www.linkedin.com/in/khudadadhussaini-126b18160)
+- Email: khudadadh4@gmail.com
